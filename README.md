@@ -1,2 +1,6 @@
 # liuderchi.github.io
-testing gh pages
+
+
+testing GitHub User Page using Jekyll
+
+- ref: [GitHub Help Tutorial](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)
