@@ -1,0 +1,2 @@
+birthyr: 1990
+# access value via {{ site.data.me.birthyr }}
